@@ -1,16 +1,21 @@
-### Hi there 👋
+<div>
+	<p style="margin:0; padding: 0; font-size:18px;"> 
+		<strong style="color:red;"> ✋ Hola! </strong> 
+		<span>Mi nombre es</span>
+	</p>
+	<p style="margin:0; padding: 0; font-size:48px; line-height: 45px;">
+		Christian Andres M
+	</p>
+	<p style="margin:0; padding: 0; font-size:38px; line-height: 45px; color: red">
+		Front-end | Mobile Developer
+	</p>
+</div>
 
-<!--
-**christiandevel/christiandevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bogota apasionado por la tecnologia, los retos y a nunca parar de aprender.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Actualmete trabajo en el area de desarrollo de Novus
+- 🌱 Busco aprender todo lo relacionado con Front-end
+- 👯 Colaborando actualmente con la creacion de multiples paginas
 -->
