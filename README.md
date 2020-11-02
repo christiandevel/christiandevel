@@ -11,7 +11,7 @@
 	</p>
 </div>
 
-# Bogota apasionado por la tecnologia, los retos y a nunca parar de aprender.
+# Bogotano apasionado por la tecnologia, los retos y a nunca parar de aprender.
 
 Here are some ideas to get you started:
 
